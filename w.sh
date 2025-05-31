@@ -53,7 +53,7 @@ check_wordpress() {
 find_emails() {
     echo -e "${GREEN}Buscando correos electrónicos...${NC}"
     curl -k -s "$URL" | grep -oP '[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}' | sort | uniq
-}
+}https://www.facebook.com/cristina.trujillo.958794
 
 find_phone_numbers() {
     echo -e "${GREEN}Buscando números de teléfono...${NC}"
