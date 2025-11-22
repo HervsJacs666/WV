@@ -1,0 +1,365 @@
+Iniciando análisis completo para: https://www.facebook.com
+Resolviendo dirección IP para el servidor...
+2a03:2880:f361:1:face:b00c:0:25de, 57.144.194.1
+Cabeceras HTTP completas:
+
+Comprobando cabeceras de seguridad específicas...
+[32;1mKey                         [0m[32;1m Value[0m
+[32;1m---                         [0m [32;1m-----[0m
+Vary                         {Accept-Encoding}
+Set-Cookie                   {fr=0T4SJgHuhWkeyzhwJ..Bp.
+accept-ch-lifetime           {4838400}
+accept-ch                    {viewport-width,dpr,Sec-C.
+reporting-endpoints          {coop_report="https://www.
+report-to                    {{"max_age":2592000,"endp.
+Content-Security-Policy      {default-src blob: 'self'.
+X-Frame-Options              {DENY}
+document-policy              {force-load-at-top, inclu.
+permissions-policy           {accelerometer=(), attrib.
+cross-origin-resource-policy {same-origin}
+cross-origin-opener-policy   {unsafe-none}
+Pragma                       {no-cache}
+Cache-Control                {no-store, must-revalidat.
+X-Content-Type-Options       {nosniff}
+X-XSS-Protection             {0}
+origin-agent-cluster         {?1}
+Strict-Transport-Security    {max-age=15552000; preloa.
+X-FB-Debug                   {KARSFIfyxkOOBE/iiP9vas/6.
+Date                         {Sat, 22 Nov 2025 11:19:5.
+X-FB-Connection-Quality      {EXCELLENT; q=0.9, rtt=21.
+Alt-Svc                      {h3=":443"}
+Connection                   {keep-alive}
+Expires                      {Sat, 01 Jan 2000 00:00:0.
+Content-Type                 {text/html; charset="utf-.
+X-Frame-Options : DENY
+X-XSS-Protection : 0
+X-Content-Type-Options : nosniff
+Strict-Transport-Security : max-age=15552000; preload
+Content-Security-Policy : default-src blob: 'self' https://*.fbsbx.com *.facebook.com *.fbcdn.net;script-src *.facebook.com *.fbcdn.net *.facebook.net 127.0.0.1:* 'nonce-nVKWC7ve' blob: 'self' connect.facebook.net 'unsafe-eval' https://*.google-analytics.com *.google.com;style-src *.fbcdn.net data: *.facebook.com 'unsafe-inline' https://fonts.googleapis.com;connect-src *.facebook.com facebook.com *.fbcdn.net *.facebook.net wss://*.facebook.com:* wss://*.whatsapp.com:* wss://*.fbcdn.net attachment.fbsbx.com ws://localhost:* blob: *.cdninstagram.com 'self' http://localhost:3103 wss://gateway.facebook.com wss://edge-chat.facebook.com wss://snaptu-d.facebook.com wss://kaios-d.facebook.com/ v.whatsapp.net *.fbsbx.com *.fb.com https://*.google-analytics.com;font-src data: *.facebook.com *.fbcdn.net *.fbsbx.com https://fonts.gstatic.com;img-src *.fbcdn.net *.facebook.com data: https://*.fbsbx.com facebook.com *.cdninstagram.com fbsbx.com fbcdn.net connect.facebook.net *.carriersignal.info blob: android-webview-video-poster: *.whatsapp.net *.fb.com *.oculuscdn.com *.tenor.co *.tenor.com *.giphy.com https://trustly.one/ https://*.trustly.one/ https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://*.google-analytics.com;media-src *.cdninstagram.com blob: *.fbcdn.net *.fbsbx.com www.facebook.com *.facebook.com data: *.tenor.co *.tenor.com https://*.giphy.com;child-src data: blob: 'self' https://*.fbsbx.com *.facebook.com *.fbcdn.net;frame-src *.facebook.com *.fbsbx.com fbsbx.com data: www.instagram.com *.fbcdn.net accounts.meta.com *.accounts.meta.com https://trustly.one/ https://*.trustly.one/ https://paywithmybank.com/ https://*.paywithmybank.com/ https://www.googleadservices.com https://googleads.g.doubleclick.net https://www.google.com https://td.doubleclick.net *.google.com *.doubleclick.net;manifest-src data: blob: 'self' https://*.fbsbx.com *.facebook.com *.fbcdn.net;object-src data: blob: 'self' https://*.fbsbx.com *.facebook.com *.fbcdn.net;worker-src blob: *.facebook.com data:;block-all-mixed-content;upgrade-insecure-requests;
+Comprobando archivos/directorios sensibles...
+Posible exposición en: https://www.facebook.com/.git/ (HTTP 200)
+Posible exposición en: https://www.facebook.com/.env (HTTP 200)
+Posible exposición en: https://www.facebook.com/wp-config.php (HTTP 200)
+Posible exposición en: https://www.facebook.com/phpinfo.php (HTTP 200)
+Verificando si el sitio utiliza WordPress...
+No se encontraron indicios claros de WordPress.
+Buscando correos electrónicos...
+Buscando números de teléfono...
+10.0.26220
+10000
+1003267
+10211
+1030.274.078.0
+1030274078
+10726
+1083116
+10839
+1094133
+1094907
+1105154
+11054
+1106516
+1108857
+11202
+11557
+11582
+11685
+11826
+1183579
+1187159
+12068
+12286
+12288
+12290
+12291
+12292
+12293
+12294
+12296
+12297
+12304
+12343
+12572
+1292365
+1294158
+1294159
+13090
+13292
+13382
+1353359
+13597
+13683
+13699
+14696
+14887
+14925
+14926
+14927
+150000
+15211
+1522191
+15500
+15620
+15745
+15957
+1634616
+1642797
+1645510
+1659080345
+16965
+17201
+17228
+1743095
+1744178
+1744524
+1744525
+1744526
+1744527
+17476
+1763810401
+1763810401995
+1763810402039
+17816
+1814852
+1829319
+1829320
+18296
+1838142
+1843988
+1848815
+1871697
+1876411
+1876412
+1876413
+1876414
+1876415
+1876416
+1876418
+1876419
+1876420
+1876421
+1876422
+1876423
+1876424
+1876426
+1876427
+1876428
+1876429
+1876430
+1876431
+1876432
+1876434
+1876435
+1876436
+1876437
+1876438
+1876439
+1876440
+1876442
+1876443
+1876444
+1876445
+1876446
+1876447
+1876448
+1876450
+1876451
+1876452
+1876453
+1876454
+1876455
+1876456
+1876458
+19108
+1940508
+1940509
+1940510
+1940511
+1940512
+1940513
+19586
+19588
+1984081
+20226
+20227
+20266
+20267
+20294
+20362
+20391
+20414
+20836
+20863
+20864
+20865
+20935
+20936
+20942
+20980
+20981
+20982
+20983
+20984
+21043
+21049
+21050
+21051
+21053
+21055
+21056
+21057
+21058
+21063
+21072
+21106
+21107
+21116
+21117
+21238
+2216007
+2216012
+22803
+22826
+22875
+22877
+22885
+22912
+22968
+22979
+23134
+23414
+25571
+25572
+256281040558
+2579891418969617
+2592000
+262144
+26340
+26341
+26342
+27561
+2868017969850691
+30000
+30001
+30002
+30003
+30004
+30005
+30006
+30007
+30008
+30012
+30013
+30015
+30018
+30021
+30022
+30040
+30093
+30094
+30095
+30101
+30102
+30103
+30104
+30106
+30107
+31536000
+328054
+34560000
+34560000000
+38000
+38001
+402047449186
+419859403337390
+463238
+513024
+5184000
+540817
+540823
+541427
+541591
+558608
+568137493302217
+573585
+60000
+604800
+637205020878504
+692209
+696703
+70084
+72671702
+7575507993316290
+7776000
+787040499275067
+806033
+806039
+806643
+806696
+807042
+838801
+844180
+86400
+875231
+87942
+896461
+896462
+925100
+955714
+983844
+986633
+Extrayendo enlaces de la página...
+/ad_campaign/landing.php?placement=pflo&amp;campaign_id=402047449186&amp;nav_source=unknown&amp;extra_1=auto
+/allactivity?privacy_source=activity_log_top_menu
+/careers/?ref=pf
+/data/manifest/?is_workplace_mobile_pwa_dogfooding=0
+/help/?ref=pf
+/lite/
+/login/
+/pages/create/?ref_type=registration_form
+/pages/create/?ref_type=site_footer
+/policies?ref=pf
+/policies/cookies/
+/privacy/center/?entry_point=facebook_page_footer
+/privacy/policy/?entry_point=facebook_page_footer
+/r.php?entry_point=login
+/reg/
+/settings
+/votinginformationcenter/?entry_point=c2l0ZQ%3D%3D
+#
+https://about.meta.com/
+https://about.meta.com/technologies/meta-pay
+https://ar-ar.facebook.com/
+https://de-de.facebook.com/
+https://developers.facebook.com/?ref=pf
+https://fr-fr.facebook.com/
+https://hi-in.facebook.com/
+https://it-it.facebook.com/
+https://ja-jp.facebook.com/
+https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2F&amp;h=AT02_bV_Ct2gKmw7Ho3XUfB2V2Geybc53PoQuRNA7qKvsixnygJtwD9g0MNqlP8SULArftzjp6DxuaXJVGm7NbymWXUWIEjmGyxQy-LrcKpyg8hlajo4j4Sif7nJMI1C3cui8NYf8iWPf77EdOMnuyXeQoK9Jo7YAjhw6A
+https://m.facebook.com/
+https://messenger.com/
+https://pt-br.facebook.com/
+https://static.xx.fbcdn.net/rsrc.php/v4/y5/r/vWZdTsw2TLs.js
+https://static.xx.fbcdn.net/rsrc.php/v4/ye/r/bbli3Hkzn6I.js
+https://static.xx.fbcdn.net/rsrc.php/v4/ym/r/6mQvWWSqMtA.js
+https://static.xx.fbcdn.net/rsrc.php/v4i7M54/yK/l/es_LA-j/S0vDQQIpJ2C.js
+https://static.xx.fbcdn.net/rsrc.php/v5/y4/l/0,cross/5-JDwcTXRg6.css
+https://static.xx.fbcdn.net/rsrc.php/v5/yE/l/0,cross/nY_mpQlpKwW.css
+https://static.xx.fbcdn.net/rsrc.php/v5/yH/l/0,cross/P7FyaBBIivS.css
+https://static.xx.fbcdn.net/rsrc.php/v5/yJ/l/0,cross/SWbQtkCRqdr.css
+https://static.xx.fbcdn.net/rsrc.php/v5/yM/l/0,cross/OgTgLfyJsX6.css
+https://static.xx.fbcdn.net/rsrc.php/v5/yw/l/0,cross/q94KeUx_T1z.css
+https://static.xx.fbcdn.net/rsrc.php/yB/r/2sFJRNmJ5OP.ico
+https://www.facebook.com/
+https://www.facebook.com/help/568137493302217
+https://www.facebook.com/help/637205020878504
+https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzYzODEwNDAzLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;ars=facebook_login&amp;next
+https://www.facebook.com/watch/
+https://www.meta.ai/
+https://www.meta.ai/pages/ford-raptor-off-road-features-truck-upgrade/?utm_source=foa_web_footer
+https://www.meta.com/
+https://www.meta.com/quest/
+https://www.meta.com/smart-glasses/
+https://www.threads.com/
+
